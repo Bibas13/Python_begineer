@@ -1,7 +1,6 @@
 
-# sorcery skip: merge-duplicate-blocks, remove-redundant-continue, remove-redundant-if
 """ Rock paper scissor game in terminal window 
-    hence the first begineer project
+    hence the  begineer project
     SUCCESSFULLY DONE!!!!"""
 import random
 
@@ -11,7 +10,7 @@ computer_wins = 0
 draw = 0
 n = 0
 option = ["rock" , "paper" , "scissor"]
-print("welcome to the game!",name)
+print("welcome to the game!!! ", name)
 
 while True:
 
